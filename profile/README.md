@@ -1,7 +1,5 @@
 ## CC25-SF061
-
-Creation of woofi project
-
+CC25-SF061 is our team id in coding camp program. Our team will make a tourism places collection. The name of our web application is woofi 
 
 ## Our team member
 <ol>
