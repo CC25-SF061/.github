@@ -2,6 +2,15 @@
 
 Creation of woofi project
 
+
+## Our team member
+<ol>
+  <li>I Gusti Ngurah Agung Mantra Suyasa (FS060D5Y0352)</li>
+  <li>I Nyoman Kesava Mas Dhananjaya Rangkan (FS060D5Y0105)</li>
+  <li>Sulih Muhammad Ragil (FS060D5Y0233)</li>
+  <li>I Wayan Widhyadana Sadhu Gunawan (FS060D5Y0159)</li>
+   <li>Annisa Fitriana (MS060D5X0565)</li>
+</ol>
 <!--
 
 **Here are some ideas to get you started:**
