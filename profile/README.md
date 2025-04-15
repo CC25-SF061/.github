@@ -1,21 +1,24 @@
-## CC25-SF061
-CC25-SF061 is our team id in coding camp program. Our team will make a tourism places collection. The name of our web application is woofi 
+![Logo Woofi dengan text ](/Media/LogoText.png "Logo Woofi")
 
-## Our team member
-<ol>
-  <li>I Gusti Ngurah Agung Mantra Suyasa (FS060D5Y0352)</li>
-  <li>I Nyoman Kesava Mas Dhananjaya Rangkan (FS060D5Y0105)</li>
-  <li>Sulih Muhammad Ragil (FS060D5Y0233)</li>
-  <li>I Wayan Widhyadana Sadhu Gunawan (FS060D5Y0159)</li>
-   <li>Annisa Fitriana (MS060D5X0565)</li>
-</ol>
-<!--
+# **Woofi (Wonderful Of Indonesia)**
+Platform digital yang bersifat menarik perhatian serta informatif tentang tempat wisata dan budaya lokal yang berasal dari Indonesia
 
-**Here are some ideas to get you started:**
+## Description Proyek
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Apa yang dilakukan aplikasi Anda?
+Memberikan sebuah informasi tentang budaya, tradisi, alat musik tradisional, tempat wisata yang bersifat subjektif teruntuk wisatawan lokal maupun internasional
+
+### Mengapa Anda menggunakan teknologi yang Anda gunakan? 
+Mengikuti perkembangan teknologi untuk memaksimalkan proyek ini supaya berjalan dengan baik
+
+## Kredit
+Kami mengucapkan terima kasih yang sebesar-besarnya kepada semua pihak yang telah berkontribusi, baik secara langsung maupun tidak langsung, dalam pengembangan proyek ini. Tanpa dukungan dan kontribusi mereka, proyek ini tidak akan mungkin terwujud seperti sekarang.
+
+### Members
+1. Annisa Fitriana(MS060D5X0565) - Machine Learning- Smk Negeri 1 Denpasar </br>
+GitHub: ```https://github.com/Ananisafitriana```
+2. I Gusti Ngurah Agung Mantra Suyasa(FS060D5Y0352) - Frotend/Backend Development- Smk Negeri 1 Denpasar </br>
+GitHub: ```https://github.com/AgungMantra```
+3. I Nyoman Kesava Mas Dananjaya Rangkan(FS060D5Y0105) - Frotend/Backend Development- Smk Negeri 1 Denpasar </br>
+GitHub: ```https://github.com/kesavamas```
+4. Sulih Muhammad Ragil(FS060D5Y0233) - Frotend/Backend Development- Smk Negeri 1 Denpasar </br>
