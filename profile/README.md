@@ -27,3 +27,6 @@ GitHub: ```https://github.com/AgungMantra```
 3. I Nyoman Kesava Mas Dananjaya Rangkan(FS060D5Y0105) - Frotend/Backend Development- Smk Negeri 1 Denpasar </br>
 GitHub: ```https://github.com/kesavamas```
 4. Sulih Muhammad Ragil(FS060D5Y0233) - Frotend/Backend Development- Smk Negeri 1 Denpasar </br>
+GitHub: ```https://github.com/dklfh```
+5. I Wayan Widhyadana Sadhu Gunawan(FS060D5Y0159) - Frotend/Backend Development- Smk Negeri 1 Denpasar </br>
+GitHub: ```https://github.com/KelloVerra```
