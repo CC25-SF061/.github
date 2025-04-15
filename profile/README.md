@@ -1,4 +1,4 @@
-![Logo Woofi dengan text ](/Media/LogoText.png "Logo Woofi")
+![Logo Woofi dengan text ](https://github.com/user-attachments/assets/930b375a-e545-4058-971b-338fad6f1b35)
 
 # **Woofi (Wonderful Of Indonesia)**
 Platform digital yang bersifat menarik perhatian serta informatif tentang tempat wisata dan budaya lokal yang berasal dari Indonesia
@@ -14,6 +14,11 @@ Mengikuti perkembangan teknologi untuk memaksimalkan proyek ini supaya berjalan 
 ## Kredit
 Kami mengucapkan terima kasih yang sebesar-besarnya kepada semua pihak yang telah berkontribusi, baik secara langsung maupun tidak langsung, dalam pengembangan proyek ini. Tanpa dukungan dan kontribusi mereka, proyek ini tidak akan mungkin terwujud seperti sekarang.
 
+## Navigasi
+1. [Frontend](https://github.com/CC25-SF061/woofi-frontend/)
+2. [Backend](https://github.com/CC25-SF061/woofi-backend)
+3. [ML](https://github.com/CC25-SF061/woofi-ml)
+   
 ### Members
 1. Annisa Fitriana(MS060D5X0565) - Machine Learning- Smk Negeri 1 Denpasar </br>
 GitHub: ```https://github.com/Ananisafitriana```
